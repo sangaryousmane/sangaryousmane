@@ -1,12 +1,7 @@
 - 👋 Hi, I’m Ousmane
-- 
-- 👀 I’m interested in Java and JavaScript...
-- 🌱 I’m currently learning Java/Spring boot...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at -> sangary7683@yahoo.com ...
 
 
-Connect with me here 😎
+Connect with me here, let's build your next project 😎
 [Twitter](https://twitter.com/OusmaneSangary2/)
 
 
